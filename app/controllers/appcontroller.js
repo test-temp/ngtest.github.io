@@ -57,7 +57,7 @@
 
             var modalInstance = common.$modal.open({
                 animation: true,
-                templateUrl: '../templates/modalDeleteConfirm.html',
+                templateUrl: '../ngtest.github.io/templates/modalDeleteConfirm.html',
                 controller: 'confirmController as conf',
                 size: "modal-sm",
                 backdrop: "static"
