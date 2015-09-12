@@ -92,7 +92,7 @@
 
             var modalInstance = common.$modal.open({
                 animation: true,
-                templateUrl: '/templates/modalTemplate.html',
+                templateUrl: '../ngtest.github.io/templates/modalTemplate.html',
                 controller: 'modalController as mod',
                 size: "modal-md",
                 backdrop: "static",
